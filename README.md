@@ -1,6 +1,6 @@
 👋 Hi, I'm Nagaraj RK  
 
-🐍 Aspiring Python Full Stack Developer with hands-on experience in building web applications using Python, Flask, and SQL.  
+🐍 Aspiring Python Full Stack Developer with hands-on experience in building web applications using Python,Django, Flask, and SQL.  
 🚀 Passionate about developing efficient backend systems and data-driven solutions.
 
 🌱 Currently Learning  
@@ -9,8 +9,8 @@
 - Frontend Integration with HTML, CSS, JavaScript  
 
 🛠️ Tech Stack  
-- Languages: Python  
-- Backend: Flask, REST APIs  
+- Languages: Python, Java
+- Backend: Django, Flask, REST APIs  
 - Frontend: HTML, CSS, JavaScript  
 - Database: MySQL / SQLite  
 - Tools: Git, GitHub, Postman  
@@ -21,7 +21,7 @@
   - Python-based system with database integration  
   - Improved accuracy and reduced manual effort  
 
-- **Agriculture Recommendation System**  
+- **Smart Crop Management System**  
   - Crop and fertilizer recommendation based on soil and climate data  
   - Implemented using Python Flask and SQL  
   - Helps farmers make data-driven decisions  
