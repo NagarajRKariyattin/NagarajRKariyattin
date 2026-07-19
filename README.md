@@ -1,33 +1,73 @@
-👋 Hi, I'm Nagaraj RK  
+                                                👋 Hi, I'm Nagaraj RK  
+                                 Data Analytics | Python Developer | GenAI Enthusiast
+ 
+## 🚀 About Me
 
-🐍 Aspiring Python Full Stack Developer with hands-on experience in building web applications using Python,Django, Flask, and SQL.  
-🚀 Passionate about developing efficient backend systems and data-driven solutions.
+- 🎓 MCA Student (Final Year)
+- 📊 Passionate about Data Analytics & Business Intelligence
+- 🤖 Building AI-powered Data Analytics applications using LLMs
+- 🐍 Python Developer with Backend Development experience
+- 📈 Learning and building projects with PostgreSQL, Streamlit, and Generative AI
+- 🌱 Currently exploring Agentic AI, RAG, and AI Automation
+  
+## 🛠️ Tech Stack
 
-🌱 Currently Learning  
-- Advanced Flask & REST API Development  
-- Database Design & Optimization (SQL)  
-- Frontend Integration with HTML, CSS, JavaScript  
+### Programming Languages
+- Python
+- SQL
+- JavaScript
 
-🛠️ Tech Stack  
-- Languages: Python, Java
-- Backend: Django, Flask, REST APIs  
-- Frontend: HTML, CSS, JavaScript  
-- Database: MySQL / SQLite  
-- Tools: Git, GitHub, Postman  
+### Data Analytics
+- Excel
+- PostgreSQL
+- Power BI
+- Pandas
+- NumPy
 
-📂 Projects  
-- **Face Recognition Attendance Management System**  
-  - Automated attendance using face recognition  
-  - Python-based system with database integration  
-  - Improved accuracy and reduced manual effort  
+### AI & Machine Learning
+- Ollama
+- Generative AI
+- Prompt Engineering
 
-- **Smart Crop Management System**  
-  - Crop and fertilizer recommendation based on soil and climate data  
-  - Implemented using Python Flask and SQL  
-  - Helps farmers make data-driven decisions  
+### Backend
+- Django
+- Flask
+  
+### Visualization
+- Streamlit
+- Matplotlib
+- Plotly
 
+### Tools
+- Git
+- GitHub
+- VS Code
+  
+## 🚀 Featured Projects
+
+### 🤖 AI Data Analytics Platform
+- Natural Language to SQL
+- PostgreSQL
+- Streamlit Dashboard
+- Ollama (Llama 3)
+- Hybrid AI Query Routing
+
+### 🎓 Learning Management System
+- Django
+- PostgreSQL
+- Authentication
+- Course Management
+- Student Dashboard
+
+## 🌱 Currently Learning
+- Advanced SQL
+- Data Engineering
+- Agentic AI
+- RAG Applications
+- AWS
+- Docker
 🎯 Career Goal  
-- Seeking opportunities as a Python Full Stack Intern / Fresher Software Developer  
+- Seeking opportunities as a Data Analyst,Python Full Stack Developer Fresher Software Developer,AI Data Analyst,SQL Developer 
 
 📫 How to Reach Me  
 - Email: nagarajrkariyattin@gmail.com  
