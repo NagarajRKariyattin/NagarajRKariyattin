@@ -3,7 +3,7 @@
  
 ## 🚀 About Me
 
-- 🎓 MCA Student (Final Year)
+- 🎓 MCA Student 
 - 📊 Passionate about Data Analytics & Business Intelligence
 - 🤖 Building AI-powered Data Analytics applications using LLMs
 - 🐍 Python Developer with Backend Development experience
