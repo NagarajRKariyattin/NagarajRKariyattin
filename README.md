@@ -61,11 +61,8 @@
 
 ## 🌱 Currently Learning
 - Advanced SQL
-- Data Engineering
 - Agentic AI
-- RAG Applications
 - AWS
-- Docker
 🎯 Career Goal  
 - Seeking opportunities as a Data Analyst,Python Full Stack Developer Fresher Software Developer,AI Data Analyst,SQL Developer 
 
