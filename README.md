@@ -1,5 +1,5 @@
                                                 👋 Hi, I'm Nagaraj RK  
-                                 Data Analytics | Python Developer | GenAI Enthusiast
+                                 Data Analyst | Python Developer | GenAI Enthusiast
  
 ## 🚀 About Me
 
