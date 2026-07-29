@@ -61,7 +61,7 @@
 
 ## 🌱 Currently Learning
 - Advanced SQL
-- Agentic AI
+- Pyspark 
 - AWS
 🎯 Career Goal  
 - Seeking opportunities as a Data Analyst,Python Full Stack Developer Fresher Software Developer,AI Data Analyst,SQL Developer 
