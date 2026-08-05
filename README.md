@@ -3,7 +3,7 @@
  
 ## 🚀 About Me
 
-- 🎓 MCA Student 
+- 🎓 MCA Student-2026
 - 📊 Passionate about Data Analytics & Business Intelligence
 - 🤖 Building AI-powered Data Analytics applications using LLMs
 - 🐍 Python Developer with Backend Development experience
@@ -31,8 +31,7 @@
 
 ### Backend
 - Django
-- Flask
-  
+-   
 ### Visualization
 - Streamlit
 - Matplotlib
@@ -51,6 +50,14 @@
 - Streamlit Dashboard
 - Ollama (Llama 3)
 - Hybrid AI Query Routing
+
+### 📊 Sales Data Analysis using PySpark
+- PySpark Data Processing
+- Spark SQL Analytics
+- Data Cleaning & Feature Engineering
+- ETL Pipeline
+- Business Insights & Reporting
+- Power BI Dashboard
 
 ### 🎓 Learning Management System
 - Django
