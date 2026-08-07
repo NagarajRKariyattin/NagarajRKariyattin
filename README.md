@@ -71,7 +71,7 @@
 - Pyspark 
 - AWS
 🎯 Career Goal  
-- Seeking opportunities as a Data Analyst,Python Full Stack Developer Fresher Software Developer,AI Data Analyst,SQL Developer 
+- Seeking opportunities as a Data Analyst,AI Data Analyst,SQL Developer 
 
 📫 How to Reach Me  
 - Email: nagarajrkariyattin@gmail.com  
